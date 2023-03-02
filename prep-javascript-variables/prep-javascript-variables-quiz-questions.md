@@ -14,7 +14,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - Which keyword is used to declare a variable in JavaScript?
 
-'var'
+'var', 'const', 'let'
 
 - Which characters is a JavaScript variable allowed to begin with?
 
@@ -33,9 +33,12 @@ Also Strings are used for storing and manipulating text-based data
 
 - What is the purpose of booleans in JavaScript?
 
+
 - What is the purpose of numbers in JavaScript?
+represent bnumbers
 
 - What does `null` mean in JavaScript?
+
 
 ## Notes
 
