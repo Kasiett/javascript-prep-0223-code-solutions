@@ -32,6 +32,7 @@ Also Strings are used for storing and manipulating text-based data
 
 
 - What is the purpose of booleans in JavaScript?
+
 Booleans in JavaScript are used to represent true or false values. And used in conditional statements such as 'if else' statement.
 
 - What is the purpose of numbers in JavaScript?
@@ -39,6 +40,7 @@ The purpose of numbers in JavaScript is to represent numerical values, perform a
 
 - What does `null` mean in JavaScript?
 In JavaScript, the value `null` is a special value that indicates that no value has been assigned. It is often used to indicate the absence of a value, or to indicate the end of a list or array.
+
 
 ## Notes
 
