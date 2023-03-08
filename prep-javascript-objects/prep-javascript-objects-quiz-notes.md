@@ -8,7 +8,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 strings, numbers, booleans, or complex data types like arrays, function and other objects
 
 - Describe the syntax (structure) of object-literals in JavaScript.
-it is a variable whis can hold many values , it is comma-separeted list key-value pairs enclosed in curly braces whis is asigned to a variable
+it is a variable which can hold many values , it is comma-separeted list key-value pairs enclosed in curly braces whis is asigned to a variable
 
 ## Notes
 
